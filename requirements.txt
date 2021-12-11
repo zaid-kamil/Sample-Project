@@ -1,0 +1,4 @@
+opencv-contrib-python
+mediapipe
+pyqt5
+pyqt5-designer
